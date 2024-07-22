@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Welcome! I am Michael, aka marags or rag1 👋 </h1>
+  <h1> Welcome! 👋 </h1>
   <h3> Currently updating and pulling projects over from a private repo </h3>
 </div>
 
@@ -23,13 +23,13 @@
 * :baseball: Giants!
 
 ### Where I've Been
-* :parachute: US Army Paratrooper 101st - (Signal Corps "You can talk about us, but you can't talk without us")
-* :mortar_board: Santa Clara University (Computer Science)
+* :parachute: 
+* :mortar_board: Computer Science
 * :cop: NukePig :alien::flying_saucer:
 
 ### Where I'm Going
 * :rocket: Mars
-* Contribute to more Open Source projects (VetSec, Operation Code, VetsInTech)
+* Contribute to more Open Source projects
 * Learning everything
 * :tent: Visit all the National Parks
 
